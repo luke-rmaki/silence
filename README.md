@@ -3,9 +3,9 @@
 This is a mono repo for the various Silence themes and assets.
 
 The [Brand](https://github.com/luke-rmaki/brand) generates the static assets:
-- [colors.css](/colors.css)
-- [colors.json](/colors.json)
-- Various [logo variants](/logos) 
+- [colors.css](./assets/colors.css)
+- [colors.json](./assets/colors.json)
+- Various [logo variants](./assets/logo) 
 
 
 ## Themes
