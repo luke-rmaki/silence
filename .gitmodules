@@ -1,3 +1,18 @@
 [submodule "packages/brand"]
 	path = packages/brand
 	url = git@github.com:luke-rmaki/brand.git
+[submodule "packages/logo"]
+	path = packages/logo
+	url = git@github.com:luke-rmaki/the_logo.git
+[submodule "packages/silence-firefox"]
+	path = packages/silence-firefox
+	url = git@github.com:luke-rmaki/silence-firefox.git
+[submodule "packages/silence-chrome"]
+	path = packages/silence-chrome
+	url = git@github.com:luke-rmaki/silence-chrome.git
+[submodule "packages/silence-obsidian"]
+	path = packages/silence-obsidian
+	url = git@github.com:luke-rmaki/silence-obsidian.git
+[submodule "packages/silence-vscode"]
+	path = packages/silence-vscode
+	url = git@github.com:luke-rmaki/silence-vscode.git
