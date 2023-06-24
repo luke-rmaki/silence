@@ -1,0 +1,10 @@
+{
+  "tasks": {
+    "build:brand": "deno run --allow-read --allow-write --allow-run --allow-net --allow-env packages/brand/main.ts",
+    "dev:brand": "deno run --allow-read --allow-write --allow-run --allow-net --allow-env --watch packages/brand/main.ts"
+  },
+  "imports": {
+    "@types": "./types.ts",
+    "@path": "https://deno.land/std@0.191.0/path/mod.ts"
+  }
+}

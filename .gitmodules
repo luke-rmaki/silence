@@ -1,0 +1,3 @@
+[submodule "packages/brand"]
+	path = packages/brand
+	url = git@github.com:luke-rmaki/brand.git
